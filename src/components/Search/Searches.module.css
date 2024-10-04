@@ -1,0 +1,13 @@
+.search{
+    width: 400px;
+    position: relative;
+    margin: auto;
+}
+
+.clear {
+    position: absolute !important;
+    top: 8px;
+    margin: 8px !important;
+    right: 5px;
+    padding: 0 !important;
+}
